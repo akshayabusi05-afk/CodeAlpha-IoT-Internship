@@ -43,11 +43,23 @@ void loop() {
 
   delay(500);
 }
-```<img width="1352" height="630" alt="Screenshot_2-7-2026_143944_www tinkercad com" src="https://github.com/user-attachments/assets/cbbc9e08-2012-44fd-903b-ef0d195007de" />
+```
+<img width="1352" height="630" alt="Screenshot_2-7-2026_143944_www tinkercad com" src="https://github.com/user-attachments/assets/cbbc9e08-2012-44fd-903b-ef0d195007de" />
 <img width="1350" height="634" alt="Screenshot_2-7-2026_144040_www tinkercad com" src="https://github.com/user-attachments/assets/ef3ee86e-7150-4a3b-9791-1481d84826b8" />
 <img width="1351" height="632" alt="Screenshot_2-7-2026_144118_www tinkercad com" src="https://github.com/user-attachments/assets/aa397576-6f9e-40e1-9791-0bd3af87ea48" />
 <img width="1358" height="633" alt="Screenshot_2-7-2026_144157_www tinkercad com" src="https://github.com/user-attachments/assets/b1e30fe4-6834-497c-a65e-6946cbebf787" />
 
 
 ## Task 4
-Case Study on Iot
+This task contains an IOT case study based an smart Homes.
+  The case study explains :
+  - Introduction to IOt in smart homes
+  - Working mechanism
+  - Sensors and devices used
+  - Benefits and challenges
+  - Future scope
+    The detailed case study is attached in the PDF file
+[Task 4.pdf](https://github.com/user-attachments/files/29602275/Task.4.pdf)
+
+
+    
